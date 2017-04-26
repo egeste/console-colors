@@ -1,8 +1,8 @@
 {
   "name": "console-colors-override",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Why has nobody else made a cli color package that overwrites console.log/warn/error/etc!? Edit",
-  "main": "index.js",
+  "main": "console-colors.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
